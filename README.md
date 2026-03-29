@@ -6,5 +6,7 @@ Abstract: Visual analytics dashboards enable exploration of complex medical and 
 - We presented our work at VCBM 2024 (https://doi.org/10.2312/vcbm.20241194).
 ---
 High-level questions:
-    1. Is there a correlation between the mother’s health (i.e., prolonged NVP and consequent hospitalization) and developmental milestones (i.e., weight, height, head circumference, BMI) of children?
-    2. Is there a higher risk of growth and development issues for children of mothers who experienced HG compared to mothers who did not?
+
+1. Is there a correlation between the mother’s health (i.e., prolonged NVP and consequent hospitalization) and developmental milestones (i.e., weight, height, head circumference, BMI) of children?
+
+2. Is there a higher risk of growth and development issues for children of mothers who experienced HG compared to mothers who did not?
