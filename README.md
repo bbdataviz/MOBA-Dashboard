@@ -49,8 +49,8 @@ Figma was used to create mock-ups for discussing dashboard structure, visualizat
 
 ![Dashboard Prototype Design](./screenshots/dashboard-2.png)
 - dashboard content for multiple time points using small multiples arranged in a matrix layout
-  
----MoBa – Norwegian Mother, Father and Child Cohort Study
+
+---
 
 ## 🧬 MoBa Data Availability
 
