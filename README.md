@@ -1,5 +1,3 @@
-Exploratory Visual Analytics and Interdisciplinary Dashboard Design
-
 # MoBa Pregnancy and Child Development Dashboard
 
 An interactive visual analytics dashboard for exploring possible relationships between maternal health during pregnancy and child development outcomes using data from the Norwegian Mother, Father and Child Cohort Study (MoBa).
